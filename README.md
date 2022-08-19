@@ -1,5 +1,4 @@
 # Data Management Workshop for NMA-Sierra Leone
--
 This repository contains powerpoint slides, Jupyter notebooks and other materials which were used during a 5 hour training workshop on Python for data science and data management held in collaboration with the **National Mining Agency (NMA)** of **Sierra Leone.**  
 # Repository Setup
 The repositpory has the following folders:
